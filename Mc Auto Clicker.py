@@ -19,7 +19,7 @@ def loader():
         speed = data["speed"]
         first_start = data["First_Start"]
         if first_start == False:
-            print("\n\n\n                     WELKOM BIJ DE AUTO CLICKER VAN MEES                        ")
+            print("\n\n\n                     WELKOM BIJ DE AUTO CLICKER                        ")
             print("VUL HIER ONDER JE GEGEVENS IN OM GEBRUIK TE MAKEN VAN DIT FANTASTISCHE PROGRAMMA\n")
             name = input("Wat is je Minecraft gebruikersnaam? \n ---> ")
             speed = input("Hoeveel seconden wil je tussen de slagen?     Standaard: 3 \n ---> ")
